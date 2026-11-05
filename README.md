@@ -126,35 +126,25 @@
   <h4>⚡ Real-Time Velocity & Contribution Streak</h4>
   <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5C%2C%20Y" width="49%" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaan385&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="Overall Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="Overall Stats" />
 
   <br/><br/>
 
-  <!-- ==================== SECTION 2: LANGUAGE DISTRIBUTION ==================== -->
+  <!-- ==================== SECTION 2: REPO & LANGUAGE ANALYTICS ==================== -->
   <h4>🧬 Codebase & Language Distribution</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- ==================== SECTION 3: ACTIVITY TREND ==================== -->
-  <h4>📈 30-Day Contribution Waveform</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armaan385&theme=tokyo-night&hide_border=true&area=true&radius=10" width="98%" alt="Contribution Graph" />
+  <!-- ==================== SECTION 3: DEEP REPOSITORY TELEMETRY ==================== -->
+  <h4>📈 Profile Intelligence & Activity Metrics</h4>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armaan385&theme=tokyonight" width="49%" alt="Profile Details" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armaan385&theme=tokyonight" width="49%" alt="Stats Matrix" />
 
   <br/><br/>
 
-  <!-- ==================== SECTION 4: COMMIT SNAKE ==================== -->
-  <h4>🐍 Interactive Contribution Calendar Matrix</h4>
-  <img src="https://platane.github.io/snk/github-user-contribution.svg?user=Armaan385&color_snake=cyan&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" alt="Contribution Snake Animation" width="95%" />
-
-  <br/><br/>
-
-  <!-- ==================== SECTION 5: TROPHIES & ACHIEVEMENTS ==================== -->
-  <h4>🏆 Hall of Trophies & Milestones</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=Armaan385&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-  <br/><br/>
-
-  <!-- ==================== SECTION 6: DEV WISDOM ==================== -->
+  <!-- ==================== SECTION 4: DEV WISDOM ==================== -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Dev Quote" />
 
 </div>
