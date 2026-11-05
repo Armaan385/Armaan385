@@ -124,28 +124,32 @@
 
   <!-- ==================== SECTION 1: STREAK & SUMMARY ==================== -->
   <h4>⚡ Real-Time Velocity & Contribution Streak</h4>
-  <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5C%2C%20Y" width="49%" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="Overall Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5C%2C%20Y" width="85%" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="85%" alt="Overall Stats" />
 
   <br/><br/>
 
   <!-- ==================== SECTION 2: REPO & LANGUAGE ANALYTICS ==================== -->
   <h4>🧬 Codebase & Language Distribution</h4>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- ==================== SECTION 3: DEEP REPOSITORY TELEMETRY ==================== -->
   <h4>📈 Profile Intelligence & Activity Metrics</h4>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armaan385&theme=tokyonight" width="49%" alt="Profile Details" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armaan385&theme=tokyonight" width="49%" alt="Stats Matrix" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armaan385&theme=tokyonight" width="85%" alt="Profile Details" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armaan385&theme=tokyonight" width="85%" alt="Stats Matrix" />
 
   <br/><br/>
 
   <!-- ==================== SECTION 4: DEV WISDOM ==================== -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Dev Quote" />
 
 </div>
 
