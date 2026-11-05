@@ -78,21 +78,25 @@
 
 ### 🔄 End-to-End Data Science Pipeline
 
-```mermaid
-flowchart LR
-    A["📥 Ingestion\n(CSV / SQL / APIs)"] --> B["🧹 Wrangling\n(Pandas / NumPy)"]
-    B --> C["📊 EDA\n(Seaborn / Stats)"]
-    C --> D["⚙️ Feature Eng.\n(Scikit-Learn)"]
-    D --> E["🧠 Modeling\n(Algorithms & Tuning)"]
-    E --> F["🚀 Deployment\n& Storytelling"]
-    
-    style A fill:#0F172A,stroke:#00F0FF,stroke-width:1px,color:#fff
-    style B fill:#0F172A,stroke:#38BDF8,stroke-width:1px,color:#fff
-    style C fill:#0F172A,stroke:#818CF8,stroke-width:1px,color:#fff
-    style D fill:#0F172A,stroke:#A855F7,stroke-width:1px,color:#fff
-    style E fill:#0F172A,stroke:#EC4899,stroke-width:1px,color:#fff
-    style F fill:#0F172A,stroke:#10B981,stroke-width:1px,color:#fff
-```
+<div align="center">
+
+<table>
+  <tr align="center">
+    <td><b>📥 1. Ingestion</b><br/><sub>APIs • SQL • CSV</sub></td>
+    <td>➔</td>
+    <td><b>🧹 2. Wrangling</b><br/><sub>Pandas • NumPy</sub></td>
+    <td>➔</td>
+    <td><b>📊 3. EDA</b><br/><sub>Seaborn • Stats</sub></td>
+    <td>➔</td>
+    <td><b>⚙️ 4. Feature Eng.</b><br/><sub>Scikit-Learn</sub></td>
+    <td>➔</td>
+    <td><b>🧠 5. Modeling</b><br/><sub>Algorithms • Tuning</sub></td>
+    <td>➔</td>
+    <td><b>🚀 6. Deployment</b><br/><sub>Dashboards • Reports</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
