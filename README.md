@@ -1,9 +1,14 @@
 <div align="center">
 
   <!-- 🌌 3D Cyber Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,24&height=220&section=header&text=Armaan%20Chaudhary&fontSize=48&fontAlignY=36&desc=%E2%9E%A4%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50&stroke=00F0FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,24&height=130&section=header" width="100%" />
 
-  <br/>
+  <br/><br/>
+
+  <!-- ⚡ Glowing Cyberpunk Profile Picture -->
+  <img src="./profile_avatar.jpg" width="180px" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 35px rgba(0, 240, 255, 0.5);" alt="Armaan Chaudhary Avatar" />
+
+  <br/><br/>
 
   <!-- 🧊 3D Rotating Data & Neural Network Animation -->
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" alt="3D Neural Network Animation" style="border-radius: 14px; border: 1px solid #1E293B; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.15);" />
