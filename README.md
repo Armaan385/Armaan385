@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- 🌌 3D Cyber Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,24&height=220&section=header&text=Armaan%20Chaudhary&fontSize=48&fontAlignY=36&desc=%E2%9E%A4%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50&stroke=00F0FF&strokeWidth=1" width="100%" />
+  <!-- 🌌 Cyberpunk Waving Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,24&height=220&section=header&text=Armaan%20Chaudhary&fontSize=48&fontAlignY=36&desc=%E2%9E%A4%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Creative%20Engineer&descAlignY=58&descAlign=50&stroke=00F0FF&strokeWidth=1" width="100%" />
 
   <br/>
 
-  <!-- 🧊 3D Rotating Data & Neural Network Animation -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" alt="3D Neural Network Animation" style="border-radius: 14px; border: 1px solid #1E293B; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.15);" />
+  <!-- ⚡ Glowing Cyberpunk Avatar -->
+  <img src="./profile_avatar_cyberpunk.jpg" width="165px" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 35px rgba(0, 240, 255, 0.5);" alt="Armaan Chaudhary Avatar" />
 
   <br/><br/>
 
@@ -46,11 +46,11 @@
 
 > *"Without big data, you are blind and deaf and in the middle of a freeway."*
 
-* 🔬 **Specialization:** Computer Science undergraduate with an intense focus on **Data Science, Predictive Modeling, and Feature Engineering**.
-* 🎯 **The Objective:** Bridging the gap between raw, messy datasets and production-grade intelligent systems.
+* 🔬 **Specialization:** Computer Science undergraduate focusing on **Data Science, Predictive Modeling, and Feature Engineering**.
+* 🎯 **The Objective:** Transforming messy, high-dimensional data into robust, production-grade intelligent systems.
 * 🛠️ **Current Research & Focus:** Deepening expertise in **Statistical Inference, Scikit-Learn pipelines, and Exploratory Data Analysis (EDA)**.
 * 💻 **Full-Stack Background:** Hands-on experience engineering multi-tier web platforms, automated PDF billing engines, and client-side systems.
-* 🎮 **Beyond The Code:** Experimenting with **Arduino microcontrollers**, gaming on **Riot Games & Epic Games**, and continuous tech learning.
+* 🎮 **Beyond The Code:** Experimenting with **Arduino microcontrollers**, gaming on **Riot Games & Epic Games**, and building innovative projects.
 * 🤝 **Open To:** Collaborative ML research, open-source data tooling, and student tech hackathons.
 
 ---
