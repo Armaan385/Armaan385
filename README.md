@@ -2,7 +2,14 @@
 
   <!-- ⚡ Pure Round Glowing 3D Avatar (Native Transparent Circle with Neon Glow) -->
   <a href="https://github.com/Armaan385">
-    <img src="./profile_avatar_round.png" width="190px" alt="Armaan Chaudhary Avatar" />
+    <img src="./profile_avatar_round.png" width="180px" alt="itsarmaan Avatar" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ✨ Dynamic Glowing itsarmaan Brand Display -->
+  <a href="https://github.com/Armaan385">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2000&pause=1000&color=00F0FF&center=true&vcenter=true&width=450&lines=itsarmaan;%E2%9C%A7+itsarmaan+%E2%9C%A7;%3Citsarmaan%2F%3E;itsarmaan.dev" alt="itsarmaan" />
   </a>
 
   <br/><br/>
@@ -14,20 +21,11 @@
 
   <!-- ⚡ Live Terminal Command Typing Line (Code Running Animation) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F0FF&center=true&vcenter=true&width=620&lines=import+numpy+as+np%2C+pandas+as+pd%3B;model.fit(X_train%2C+y_train)%3B;Turning+Raw+Data+into+Actionable+Insights;Gamer+%26+Esports+Enthusiast;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F0FF&center=true&vcenter=true&width=620&lines=import+numpy+as+np%2C+pandas+as+pd%3B;model.fit(X_train%2C+y_train)%3B;Turning+Raw+Data+into+Actionable+Insights;Gamer+%26+Creative+Problem+Solver;" />
   </a>
 
-  <br/>
-
-  <!-- 🏆 High-Energy Sports & Gaming Power Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/HIGH_PERFORMANCE-DATA_SCIENTIST-00F0FF?style=for-the-badge&logo=codewars&logoColor=black" />
-    <img src="https://img.shields.io/badge/ESPORTS-RIOT_GAMES-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESPORTS-EPIC_GAMES-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
-  </p>
-
-  <p align="center">
-    📍 <b>India</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Undergrad (Data Science)</b> &nbsp;|&nbsp; ⚡ <b>Peak Performance</b>
+    📍 <b>India</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Undergrad (Data Science)</b>
   </p>
 
   <!-- 🌐 Social Network Pills -->
