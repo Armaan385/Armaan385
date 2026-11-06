@@ -1,27 +1,33 @@
 <div align="center">
 
-  <!-- 🌌 3D Cyber Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,24&height=130&section=header" width="100%" />
-
-  <br/><br/>
-
-  <!-- ⚡ Glowing Cyberpunk Profile Picture -->
-  <img src="./profile_avatar.jpg" width="180px" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 35px rgba(0, 240, 255, 0.5);" alt="Armaan Chaudhary Avatar" />
+  <!-- ⚡ Pure Round Glowing 3D Avatar (Native Transparent Circle with Neon Glow) -->
+  <a href="https://github.com/Armaan385">
+    <img src="./profile_avatar_round.png" width="190px" alt="Armaan Chaudhary Avatar" />
+  </a>
 
   <br/><br/>
 
   <!-- 🧊 3D Rotating Data & Neural Network Animation -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" alt="3D Neural Network Animation" style="border-radius: 14px; border: 1px solid #1E293B; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.15);" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" alt="3D Neural Network Animation" style="border-radius: 14px; border: 1px solid #1E293B; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.2);" />
 
   <br/><br/>
 
   <!-- ⚡ Live Terminal Command Typing Line (Code Running Animation) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F0FF&center=true&vcenter=true&width=620&lines=import+numpy+as+np%2C+pandas+as+pd%3B;model.fit(X_train%2C+y_train)%3B;Turning+Raw+Data+into+Actionable+Insights;Gamer+%26+Creative+Problem+Solver;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F0FF&center=true&vcenter=true&width=620&lines=import+numpy+as+np%2C+pandas+as+pd%3B;model.fit(X_train%2C+y_train)%3B;Turning+Raw+Data+into+Actionable+Insights;Gamer+%26+Esports+Enthusiast;" />
   </a>
 
+  <br/>
+
+  <!-- 🏆 High-Energy Sports & Gaming Power Badges -->
   <p align="center">
-    📍 <b>India</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Undergrad (Data Science)</b> &nbsp;|&nbsp; 🚀 <b>Lifelong Learner</b>
+    <img src="https://img.shields.io/badge/HIGH_PERFORMANCE-DATA_SCIENTIST-00F0FF?style=for-the-badge&logo=codewars&logoColor=black" />
+    <img src="https://img.shields.io/badge/ESPORTS-RIOT_GAMES-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESPORTS-EPIC_GAMES-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+  </p>
+
+  <p align="center">
+    📍 <b>India</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Undergrad (Data Science)</b> &nbsp;|&nbsp; ⚡ <b>Peak Performance</b>
   </p>
 
   <!-- 🌐 Social Network Pills -->
