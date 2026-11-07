@@ -96,13 +96,6 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   <img src="assets/hdr_metrics.svg" alt="Telemetry Header" width="100%" style="max-width: 820px;" />
 </p>
 
-<!-- Global 3D Telemetry Radar & Live Stream Ingestion (Cinematic Video Loop) -->
-<p align="center">
-  <img src="assets/neural_radar.svg" alt="Global Neural Telemetry Radar" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
-</p>
-
-<br>
-
 <p align="center">
   <a href="https://github.com/Armaan385" target="_blank">
     <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&border_radius=10&border_color=00F0FF" alt="Armaan's GitHub Stats" width="100%" style="max-width: 440px;" />
