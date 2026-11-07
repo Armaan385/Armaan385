@@ -14,7 +14,7 @@
 
 <!-- Cinematic Cyber / Lofi Data Stream Banner (Responsive) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Cinematic Coder Aesthetic Banner" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+  <img src="assets/profile_banner.gif" alt="Cinematic Coder Aesthetic Banner" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
 </p>
 
 <br>
@@ -130,7 +130,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 <!-- Live Animated Project Manifest -->
 <p align="center">
   <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+    <img src="assets/project_manifest.gif" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
   </a>
 </p>
 
