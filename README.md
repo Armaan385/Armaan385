@@ -125,7 +125,19 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   <img src="assets/hdr_operations.svg" alt="Deployed Operations Header" width="100%" style="max-width: 820px;" />
 </p>
 
-<!-- Live Animated Project Manifest -->
+<!-- Project 1: DocuMind AI -->
+<p align="center">
+  <a href="https://github.com/Armaan385/DocuMind-AI" target="_blank"><img src="https://img.shields.io/badge/DOCUMIND_AI-Flagship_GenAI_RAG-000000?style=for-the-badge&logo=google&logoColor=00F0FF&borderColor=00F0FF" alt="DocuMind AI" /></a>
+  <br>
+  <a href="https://github.com/Armaan385/DocuMind-AI" target="_blank"><img src="https://img.shields.io/badge/Engine-Gemini_2.5_Flash-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Gemini 2.5 Flash" /></a>
+  <img src="https://img.shields.io/badge/Vector_DB-Cosine_Similarity_768d-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Vector Store" />
+  <img src="https://img.shields.io/badge/UI-Cyberpunk_Streamlit-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Streamlit UI" />
+  <img src="https://img.shields.io/badge/Citations-Zero_Hallucination-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Zero Hallucination" />
+</p>
+
+<br>
+
+<!-- Project 2: Apex Academy Live Animated Manifest -->
 <p align="center">
   <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
     <img src="assets/project_manifest.gif" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
