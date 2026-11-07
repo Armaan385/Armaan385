@@ -72,9 +72,9 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-<!-- 3D Neural Architecture & High-Dimensional Flow (Cinematic Video Loop) -->
+<!-- Holographic Data Science Command Center (Cinematic Video Loop) -->
 <p align="center">
-  <img src="assets/neural_core.gif" alt="3D Neural Architecture Stream" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+  <img src="assets/data_command.gif" alt="Holographic Data Science Command Center" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
 </p>
 
 <br>
