@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" fill="none">
- <defs>
-  <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
-   <feGaussianBlur stdDeviation="4" result="b"/>
-   <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
- </defs>
- <text x="16" y="44" font-family="'Fira Code', Consolas, monospace" font-size="26" font-weight="800" letter-spacing="1.5" fill="#00F0FF" filter="url(#g)">▸ CORE COMPETENCIES &amp; DATA ARSENAL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="54" viewBox="0 0 820 54">
+  <rect x="1" y="1" width="818" height="52" rx="8" fill="#0d1117" stroke="#00F0FF" stroke-width="1.5" stroke-opacity="0.35"/>
+  <rect x="1" y="1" width="8" height="52" rx="4" fill="#00F0FF"/>
+  <text x="28" y="34" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="800" letter-spacing="1.5" fill="#00F0FF">▸ CORE COMPETENCIES &amp; DATA ARSENAL</text>
+  <circle cx="788" cy="27" r="4.5" fill="#00F0FF"/>
+  <circle cx="770" cy="27" r="4.5" fill="#52f2b1"/>
+  <circle cx="752" cy="27" r="4.5" fill="#ff5555" opacity="0.7"/>
 </svg>
