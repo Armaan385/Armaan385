@@ -1,178 +1,174 @@
 <div align="center">
 
-  <!-- ⚡ Pure Round Glowing 3D Avatar (Native Transparent Circle with Neon Glow) -->
-  <a href="https://github.com/Armaan385">
-    <img src="./profile_avatar_round.png" width="180px" alt="itsarmaan Avatar" />
+<!-- Hero Name Typing Header (Responsive) -->
+<a href="https://github.com/Armaan385" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&height=100&lines=ARMAAN;ITSARMAAN;ARMAAN;ITSARMAAN" alt="Hero Typing SVG" width="100%" style="max-width: 600px;" />
+</a>
+
+<!-- Subtitle Loop (Responsive) -->
+<a href="https://github.com/Armaan385" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=a0aec0&center=true&vCenter=true&width=600&height=40&lines=Data+Science+Undergrad;Predictive+ML+Architect;Neural+Systems+Developer;Full-Stack+Engineer" alt="Subtitle Typing SVG" width="100%" style="max-width: 600px;" />
+</a>
+
+<br><br>
+
+<!-- Data Science / Neural Matrix Banner GIF (Responsive) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Neural Matrix Aesthetic Banner" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+</p>
+
+<br>
+
+**Neural operations strictly optimized. Welcome to my GitHub workspace.**
+
+I am a Computer Science undergraduate specializing in **Data Science, Predictive Modeling, and Machine Learning Architecture**. Obsessed with transforming high-dimensional data noise into actionable intelligence. From exploratory statistical analysis and feature pipelines to production-grade institutional platforms, my algorithms are engineered for real-world impact.
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/armaan-chaudhary-1a5263383/" target="_blank">
+    <img src="https://img.shields.io/badge/Access_My_Network-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="Access Network" />
   </a>
-
-  <br/><br/>
-
-  <!-- ✨ Dynamic Glowing itsarmaan Brand Display -->
-  <a href="https://github.com/Armaan385">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=36&duration=2000&pause=1000&color=00F0FF&center=true&vcenter=true&width=450&lines=itsarmaan;%E2%9C%A7+itsarmaan+%E2%9C%A7;%3Citsarmaan%2F%3E;itsarmaan.dev" alt="itsarmaan" />
+  <br>
+  <a href="https://github.com/Armaan385" target="_blank">
+    <img src="https://img.shields.io/github/followers/Armaan385?style=for-the-badge&color=000000&logo=github&logoColor=00F0FF&borderColor=00F0FF" alt="GitHub Followers" />
   </a>
-
-  <br/><br/>
-
-  <!-- 🧊 3D Rotating Data & Neural Network Animation -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="480px" alt="3D Neural Network Animation" style="border-radius: 14px; border: 1px solid #1E293B; box-shadow: 0 8px 30px rgba(0, 240, 255, 0.2);" />
-
-  <br/><br/>
-
-  <!-- ⚡ Live Terminal Command Typing Line (Code Running Animation) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F0FF&center=true&vcenter=true&width=620&lines=import+numpy+as+np%2C+pandas+as+pd%3B;model.fit(X_train%2C+y_train)%3B;Turning+Raw+Data+into+Actionable+Insights;Gamer+%26+Creative+Problem+Solver;" />
+  <a href="mailto:armaan11chaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Encrypted_Comm-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Encrypted Comm" />
   </a>
-
-  <p align="center">
-    📍 <b>India</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Undergrad (Data Science)</b>
-  </p>
-
-  <!-- 🌐 Social Network Pills -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/armaan-chaudhary-1a5263383/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:armaan11chaudhary@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/armaanchaudhary_11" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.reddit.com/u/SpiderDyno" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-    </a>
-  </p>
+</p>
 
 </div>
 
----
+<br>
 
-### 🧠 About Me & Analytical Dossier
+<!-- CORE COMPETENCIES & TECHNICAL ARSENAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=CORE%20COMPETENCIES%20&%20DATA%20ARSENAL&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Core Competencies Header" width="100%" style="max-width: 820px;" />
+</p>
 
-> *"Without big data, you are blind and deaf and in the middle of a freeway."*
+<!-- Full-Fidelity Animated Dev Icons (Mobile Responsive) -->
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,scikitlearn,tensorflow,pytorch,nodejs,react,js,git,linux,c,arduino&theme=dark" alt="Technical Arsenal Icons" width="100%" style="max-width: 600px;" />
+  </a>
+</p>
 
-* 🔬 **Specialization:** Computer Science undergraduate with an intense focus on **Data Science, Predictive Modeling, and Feature Engineering**.
-* 🎯 **The Objective:** Bridging the gap between raw, messy datasets and production-grade intelligent systems.
-* 🛠️ **Current Research & Focus:** Deepening expertise in **Statistical Inference, Scikit-Learn pipelines, and Exploratory Data Analysis (EDA)**.
-* 💻 **Full-Stack Background:** Hands-on experience engineering multi-tier web platforms, automated PDF billing engines, and client-side systems.
-* 🎮 **Beyond The Code:** Experimenting with **Arduino microcontrollers**, gaming on **Riot Games & Epic Games**, and continuous tech learning.
-* 🤝 **Open To:** Collaborative ML research, open-source data tooling, and student tech hackathons.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
----
+<br>
 
-### ⚡ 3D Floating Tech Arsenal
+<!-- DATA EXTRACTION & INFERENCE PIPELINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DATA%20SCIENCE%20%26%20INFERENCE%20PIPELINE&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Pipeline Header" width="100%" style="max-width: 820px;" />
+</p>
 
 <div align="center">
-
-  <p><b>Core Data Science & Machine Learning</b></p>
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch&theme=dark" />
-
-  <br/><br/>
-
-  <p><b>Data Warehousing & Storage</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-  <br/><br/>
-
-  <p><b>Languages, Systems & Hardware</b></p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,c,java,html,css,git,github,vscode,arduino&theme=dark" />
-
-</div>
-
----
-
-### 🔄 End-to-End Data Science Pipeline
-
-<div align="center">
-
 <table>
   <tr align="center">
-    <td><b>📥 1. Ingestion</b><br/><sub>APIs • SQL • CSV</sub></td>
+    <td><b>📥 01 // INGEST</b><br/><sub>APIs • SQL • CSV</sub></td>
     <td>➔</td>
-    <td><b>🧹 2. Wrangling</b><br/><sub>Pandas • NumPy</sub></td>
+    <td><b>🧹 02 // WRANGLE</b><br/><sub>Pandas • NumPy</sub></td>
     <td>➔</td>
-    <td><b>📊 3. EDA</b><br/><sub>Seaborn • Stats</sub></td>
+    <td><b>📊 03 // EDA</b><br/><sub>Seaborn • Stats</sub></td>
     <td>➔</td>
-    <td><b>⚙️ 4. Feature Eng.</b><br/><sub>Scikit-Learn</sub></td>
+    <td><b>⚙️ 04 // FEATURE MATRIX</b><br/><sub>Scikit-Learn Preprocessing</sub></td>
     <td>➔</td>
-    <td><b>🧠 5. Modeling</b><br/><sub>Algorithms • Tuning</sub></td>
+    <td><b>🧠 05 // MODEL FIT</b><br/><sub>Algorithms • Tuning</sub></td>
     <td>➔</td>
-    <td><b>🚀 6. Deployment</b><br/><sub>Dashboards • Reports</sub></td>
+    <td><b>🚀 06 // DEPLOY</b><br/><sub>Production Insights</sub></td>
   </tr>
 </table>
-
 </div>
 
----
+<br>
 
-### 🚀 Highlight Project
+<!-- TELEMETRY & GITHUB METRICS SECTION (PHONE FRIENDLY) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DATA%20TELEMETRY%20&%20SYSTEM%20METRICS&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Telemetry Header" width="100%" style="max-width: 820px;" />
+</p>
 
-#### 🎓 [Apex Academy — Automated Academic & Attendance Analytics System](https://github.com/Armaan385/Fees-Attendance-system-)
-> *An end-to-end institutional platform integrating real-time metrics, automated report generation, and student attendance analytics.*
-
-* 📈 **Attendance Trend Analytics:** Automated algorithms calculating student attendance percentages, batch defaulter thresholds, and statistical warning flags.
-* 💳 **Automated Accounting & Invoicing:** Real-time fee ledger computations, overdue projections, and computerized PDF receipts with verifiable QR codes.
-* 🤖 **AI / Biometric Attendance Simulation:** Simulates batch roll-call hardware data to benchmark data ingestion and alert dispatches.
-* 🛠️ **Tech Stack:** JavaScript (ES6+), Node.js, Modern CSS3, `jsPDF`, `html2canvas`.
-
-<div align="center">
-  <a href="https://github.com/Armaan385/Fees-Attendance-system-">
-    <img src="https://img.shields.io/badge/⚡_Explore_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+<p align="center">
+  <a href="https://github.com/Armaan385" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&border_radius=10&border_color=00F0FF" alt="Armaan's GitHub Stats" width="100%" style="max-width: 440px;" />
   </a>
-</div>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Armaan385" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&border=00F0FF&border_radius=10" alt="Armaan's GitHub Streak" width="100%" style="max-width: 440px;" />
+  </a>
+</p>
 
-### 📊 3D GitHub Pulse & Performance Matrix
+<p align="center">
+  <a href="https://github.com/Armaan385" target="_blank">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&border_radius=10&border_color=00F0FF" alt="Top Languages" width="100%" style="max-width: 440px;" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armaan385&theme=tokyonight" alt="GitHub Profile Summary" width="100%" style="max-width: 720px;" />
+</p>
+
+<br>
+
+<!-- DEPLOYED OPERATIONS SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DEPLOYED%20OPERATIONS%20&%20FLAGSHIP%20PROJECTS&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Deployed Operations Header" width="100%" style="max-width: 820px;" />
+</p>
+
+<!-- Live Animated Project Manifest -->
+<p align="center">
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
+    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=820&q=80" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank"><img src="https://img.shields.io/badge/APEX_ACADEMY-Live_Source-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Apex Academy" /></a>
+  <img src="https://img.shields.io/badge/Multi--Role-Admin_Teacher_Parent-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Multi-Role ERP" />
+  <img src="https://img.shields.io/badge/Biometric--AI-Attendance_Sim-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="Biometric AI" />
+  <br>
+  <img src="https://img.shields.io/badge/jsPDF-QR_Invoicing-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="QR Invoicing" />
+  <img src="https://img.shields.io/badge/WhatsApp-Alert_Automation-000000?style=flat-square&labelColor=000000&color=00F0FF" alt="WhatsApp Automation" />
+</p>
+
+<br>
+
+<!-- TRANSMISSION LINKS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=TRANSMISSION%20CHANNELS%20&%20CONNECT&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Transmission Links Header" width="100%" style="max-width: 820px;" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/armaan-chaudhary-1a5263383/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Armaan385" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+  <a href="mailto:armaan11chaudhary@gmail.com"><img align="center" src="https://img.shields.io/badge/Encrypted_Comm-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&borderColor=00F0FF" alt="Encrypted Email"/></a>
+  <a href="https://www.instagram.com/armaanchaudhary_11" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.reddit.com/u/SpiderDyno" target="_blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+</p>
+
+<br>
+
+<!-- VISITOR METRICS FOOTER -->
 <div align="center">
-
-  <!-- ==================== SECTION 1: STREAK & SUMMARY ==================== -->
-  <h4>⚡ Real-Time Velocity & Contribution Streak</h4>
-  <img src="https://streak-stats.demolab.com/?user=Armaan385&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5C%2C%20Y" width="85%" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.shion.dev/api?username=Armaan385&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="85%" alt="Overall Stats" />
-
-  <br/><br/>
-
-  <!-- ==================== SECTION 2: REPO & LANGUAGE ANALYTICS ==================== -->
-  <h4>🧬 Codebase & Language Distribution</h4>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Armaan385&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="85%" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- ==================== SECTION 3: DEEP REPOSITORY TELEMETRY ==================== -->
-  <h4>📈 Profile Intelligence & Activity Metrics</h4>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armaan385&theme=tokyonight" width="85%" alt="Profile Details" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armaan385&theme=tokyonight" width="85%" alt="Stats Matrix" />
-
-  <br/><br/>
-
-  <!-- ==================== SECTION 4: DEV WISDOM ==================== -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- 🌊 3D Cyber Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,2&height=120&section=footer" width="100%" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Armaan385&style=for-the-badge&color=00F0FF" alt="Profile Views" />
-  </p>
-
-  <sub><b>Armaan Chaudhary</b> • Data Science Undergrad • Turning Data into Knowledge</sub>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" style="max-width: 650px;" alt="Data Wisdom Quote" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Armaan385&color=00F0FF&style=for-the-badge&label=UNIQUE_VISITORS" alt="Profile Views" />
 </div>
