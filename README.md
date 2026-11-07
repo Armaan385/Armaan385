@@ -12,9 +12,9 @@
 
 <br><br>
 
-<!-- Data Science / Neural Matrix Banner GIF (Responsive) -->
+<!-- Cinematic Cyber / Lofi Data Stream Banner (Responsive) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Neural Matrix Aesthetic Banner" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Cinematic Coder Aesthetic Banner" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
 </p>
 
 <br>
@@ -74,43 +74,22 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <br>
 
-<!-- DATA EXTRACTION & INFERENCE PIPELINE -->
+<!-- DATA EXTRACTION & INFERENCE PIPELINE (LIVE TERMINAL SCREEN) -->
 <p align="center">
   <img src="assets/hdr_pipeline.svg" alt="Pipeline Header" width="100%" style="max-width: 820px;" />
 </p>
 
-<div align="center">
-<table width="100%" style="max-width: 820px;">
-  <tr align="center">
-    <td width="33%">
-      <b>📥 01 // INGESTION</b><br/>
-      <sub>APIs • SQL • CSV</sub>
-    </td>
-    <td width="33%">
-      <b>🧹 02 // WRANGLING</b><br/>
-      <sub>Pandas • NumPy</sub>
-    </td>
-    <td width="33%">
-      <b>📊 03 // EXPLORATORY EDA</b><br/>
-      <sub>Seaborn • Stats</sub>
-    </td>
-  </tr>
-  <tr align="center">
-    <td width="33%">
-      <b>⚙️ 04 // FEATURE MATRIX</b><br/>
-      <sub>Scikit-Learn Preprocessing</sub>
-    </td>
-    <td width="33%">
-      <b>🧠 05 // MODEL INFERENCE</b><br/>
-      <sub>Algorithms • Hyperparameter Tuning</sub>
-    </td>
-    <td width="33%">
-      <b>🚀 06 // DEPLOYMENT</b><br/>
-      <sub>Production Insights • Dashboards</sub>
-    </td>
-  </tr>
-</table>
-</div>
+```bash
+┌──(armaan㉿datascience)-[~/production/neural_pipeline]
+└─$ python3 pipeline_engine.py --dataset=telemetry_v2.parquet --train-models
+
+[INFO] 01: RAW INGESTION     ➔ Ingested 1,420,000 multi-source streaming records. [OK]
+[INFO] 02: DATA WRANGLING    ➔ Missing value imputation & Z-score outlier pruning. [OK]
+[INFO] 03: EXPLORATORY EDA   ➔ Distribution heatmaps & p-value correlation matrix. [OK]
+[INFO] 04: FEATURE MATRIX    ➔ RobustScaler transformation, 48 features encoded.   [OK]
+[INFO] 05: MODEL INFERENCE   ➔ Ensembles converged (Loss: 0.0184, Accuracy: 97.2%). [OK]
+[SUCCESS] 06: DEPLOYMENT     ➔ Model weights dispatched to live production edge.   🚀
+```
 
 <br>
 
@@ -151,7 +130,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 <!-- Live Animated Project Manifest -->
 <p align="center">
   <a href="https://github.com/Armaan385/Fees-Attendance-system-" target="_blank">
-    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=820&q=80" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Apex Academy Deployed Core" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
   </a>
 </p>
 
