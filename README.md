@@ -84,17 +84,10 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
   <img src="assets/hdr_pipeline.svg" alt="Pipeline Header" width="100%" style="max-width: 820px;" />
 </p>
 
-```bash
-┌──(armaan㉿datascience)-[~/production/neural_pipeline]
-└─$ python3 pipeline_engine.py --dataset=telemetry_v2.parquet --train-models
-
-[INFO] 01: RAW INGESTION     ➔ Ingested 1,420,000 multi-source streaming records. [OK]
-[INFO] 02: DATA WRANGLING    ➔ Missing value imputation & Z-score outlier pruning. [OK]
-[INFO] 03: EXPLORATORY EDA   ➔ Distribution heatmaps & p-value correlation matrix. [OK]
-[INFO] 04: FEATURE MATRIX    ➔ RobustScaler transformation, 48 features encoded.   [OK]
-[INFO] 05: MODEL INFERENCE   ➔ Ensembles converged (Loss: 0.0184, Accuracy: 97.2%). [OK]
-[SUCCESS] 06: DEPLOYMENT     ➔ Model weights dispatched to live production edge.   🚀
-```
+<!-- Live Interactive Neural Pipeline Terminal (Animated Typing Loop) -->
+<p align="center">
+  <img src="assets/pipeline_engine.gif" alt="Data Science & Inference Pipeline Engine" width="100%" style="max-width: 820px; border-radius: 8px; border: 1px solid #00F0FF44;" />
+</p>
 
 <br>
 
