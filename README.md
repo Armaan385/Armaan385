@@ -44,7 +44,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <!-- CORE COMPETENCIES & TECHNICAL ARSENAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=CORE%20COMPETENCIES%20&%20DATA%20ARSENAL&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Core Competencies Header" width="100%" style="max-width: 820px;" />
+  <img src="assets/hdr_skills.svg" alt="Core Competencies Header" width="100%" style="max-width: 820px;" />
 </p>
 
 <!-- Full-Fidelity Animated Dev Icons (Mobile Responsive) -->
@@ -76,23 +76,38 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <!-- DATA EXTRACTION & INFERENCE PIPELINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DATA%20SCIENCE%20%26%20INFERENCE%20PIPELINE&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Pipeline Header" width="100%" style="max-width: 820px;" />
+  <img src="assets/hdr_pipeline.svg" alt="Pipeline Header" width="100%" style="max-width: 820px;" />
 </p>
 
 <div align="center">
-<table>
+<table width="100%" style="max-width: 820px;">
   <tr align="center">
-    <td><b>📥 01 // INGEST</b><br/><sub>APIs • SQL • CSV</sub></td>
-    <td>➔</td>
-    <td><b>🧹 02 // WRANGLE</b><br/><sub>Pandas • NumPy</sub></td>
-    <td>➔</td>
-    <td><b>📊 03 // EDA</b><br/><sub>Seaborn • Stats</sub></td>
-    <td>➔</td>
-    <td><b>⚙️ 04 // FEATURE MATRIX</b><br/><sub>Scikit-Learn Preprocessing</sub></td>
-    <td>➔</td>
-    <td><b>🧠 05 // MODEL FIT</b><br/><sub>Algorithms • Tuning</sub></td>
-    <td>➔</td>
-    <td><b>🚀 06 // DEPLOY</b><br/><sub>Production Insights</sub></td>
+    <td width="33%">
+      <b>📥 01 // INGESTION</b><br/>
+      <sub>APIs • SQL • CSV</sub>
+    </td>
+    <td width="33%">
+      <b>🧹 02 // WRANGLING</b><br/>
+      <sub>Pandas • NumPy</sub>
+    </td>
+    <td width="33%">
+      <b>📊 03 // EXPLORATORY EDA</b><br/>
+      <sub>Seaborn • Stats</sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="33%">
+      <b>⚙️ 04 // FEATURE MATRIX</b><br/>
+      <sub>Scikit-Learn Preprocessing</sub>
+    </td>
+    <td width="33%">
+      <b>🧠 05 // MODEL INFERENCE</b><br/>
+      <sub>Algorithms • Hyperparameter Tuning</sub>
+    </td>
+    <td width="33%">
+      <b>🚀 06 // DEPLOYMENT</b><br/>
+      <sub>Production Insights • Dashboards</sub>
+    </td>
   </tr>
 </table>
 </div>
@@ -101,7 +116,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <!-- TELEMETRY & GITHUB METRICS SECTION (PHONE FRIENDLY) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DATA%20TELEMETRY%20&%20SYSTEM%20METRICS&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Telemetry Header" width="100%" style="max-width: 820px;" />
+  <img src="assets/hdr_metrics.svg" alt="Telemetry Header" width="100%" style="max-width: 820px;" />
 </p>
 
 <p align="center">
@@ -130,7 +145,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <!-- DEPLOYED OPERATIONS SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=DEPLOYED%20OPERATIONS%20&%20FLAGSHIP%20PROJECTS&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Deployed Operations Header" width="100%" style="max-width: 820px;" />
+  <img src="assets/hdr_operations.svg" alt="Deployed Operations Header" width="100%" style="max-width: 820px;" />
 </p>
 
 <!-- Live Animated Project Manifest -->
@@ -153,7 +168,7 @@ I am a Computer Science undergraduate specializing in **Data Science, Predictive
 
 <!-- TRANSMISSION LINKS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:001F2D&text=TRANSMISSION%20CHANNELS%20&%20CONNECT&fontSize=22&fontAlignY=55&fontColor=00F0FF&height=50&stroke=00F0FF44&strokeWidth=1" alt="Transmission Links Header" width="100%" style="max-width: 820px;" />
+  <img src="assets/hdr_connect.svg" alt="Transmission Links Header" width="100%" style="max-width: 820px;" />
 </p>
 
 <p align="center">
